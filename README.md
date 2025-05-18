@@ -38,7 +38,7 @@ The program outputs a step-by-step iteration table showing how the root is appro
 ## 📂 Files Included
 
 - `ProjectSecantMethod.m` – Main MATLAB script
-- `SecantMethod.png` – Screenshot of sample output
+- `ProjectSecantMethodOutput.png` – Screenshot of sample output
 
 ---
 
