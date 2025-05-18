@@ -31,8 +31,7 @@ The program outputs a step-by-step iteration table showing how the root is appro
 ---
 
 ## 📷 Sample Output
-
-![Command Line Output](./ProjectSecantMethod.png)
+ProjectSecantMethod.png
 
 ---
 
